@@ -4,6 +4,7 @@ import java.util.List;
 public class Hello {
 
 	final static String st = " Hello ";
+	final static String st123 = " Hello ";
 	
 	public static void main(String[] args) {
 		System.out.println("Hi, Welcome");
