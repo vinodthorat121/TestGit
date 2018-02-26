@@ -14,9 +14,10 @@ public class Hello {
 				// TODO Auto-generated method stub
 				
 				System.out.println("Hi THis is lambda");
-			}
+				System.out.println("Hi THis is lambda");
+				}
 		};
-		
+		//testone
 		hSevrive ft = (message) -> {
 			System.out.println("football");
 		};
