@@ -16,6 +16,8 @@ public class Hello {
 				
 				System.out.println("Hi THis is lambda");
 				System.out.println("Hi THis is lambda");
+				System.out.println("Hi THis is lambda");
+				System.out.println("Hi THis is lambda");
 				}
 		};
 		//testone
